@@ -1,0 +1,8 @@
+E:\zigbee-dev\cc2530znpTerminal\obj\Release\cc2530znpTerminal.csproj.ResolveComReference.cache
+E:\zigbee-dev\cc2530znpTerminal\bin\Release\cc2530znpTerminal.exe
+E:\zigbee-dev\cc2530znpTerminal\bin\Release\cc2530znpTerminal.pdb
+E:\zigbee-dev\cc2530znpTerminal\obj\Release\CC2530ZNP.mForm.resources
+E:\zigbee-dev\cc2530znpTerminal\obj\Release\CC2530ZNP.Properties.Resources.resources
+E:\zigbee-dev\cc2530znpTerminal\obj\Release\cc2530znpTerminal.csproj.GenerateResource.Cache
+E:\zigbee-dev\cc2530znpTerminal\obj\Release\cc2530znpTerminal.exe
+E:\zigbee-dev\cc2530znpTerminal\obj\Release\cc2530znpTerminal.pdb

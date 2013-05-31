@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cc2530znpTerminal", "cc2530znpTerminal.csproj", "{E4D32F0E-4BAC-436F-8A0F-32FF0F3D6AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D32F0E-4BAC-436F-8A0F-32FF0F3D6AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D32F0E-4BAC-436F-8A0F-32FF0F3D6AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D32F0E-4BAC-436F-8A0F-32FF0F3D6AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D32F0E-4BAC-436F-8A0F-32FF0F3D6AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
